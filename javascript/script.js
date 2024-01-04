@@ -104,5 +104,3 @@ numredRes = numRed.reduce((acc,cv,ci,arr)=>{
     return acc+cv
 },initialValue) 
 console.log("numredRes is ",numredRes)
-
-
